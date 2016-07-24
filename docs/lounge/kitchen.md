@@ -18,7 +18,8 @@ The two large refrigerators are available for storing lunch or keeping frozen sn
   * All food should be stored in a sturdy, spill-proof container (it must have a lid!).
   * All food items must be labeled with your full name and have the date on which they were brought clearly shown.
 
-Food which is not labeled will be unceremoniously discarded.  Food which has been stored for longer than approxomately 3 days will also be discarded.  While these timelines are not strict, they will be enforced as such.
+Food which is not labeled will be unceremoniously discarded.
+Food which has been stored for longer than approximately 3 days will also be discarded.  While these timelines are not strict, they will be enforced as such.
 
 The larger refrigerator also contains 2 Brita water filter containers.  Many students find that the water in Dallas tastes like it has a fine grit in it and so the filter pitchers are provided as a source of grit-free water.  Please fill the pitcher if its low when you get your water!
 
@@ -27,19 +28,18 @@ Very standard Mr. Coffee brand machines; there's not much to be said other than 
 
 In the event that you are unfamiliar with the operation of a coffee pot an old document explaining how to brew coffee is reproduced here for your convenience:
 
-```plain
-1. Place a filter in the basket and add ground coffee. Approximately one heaping tablespoon of ground coffee for every cup of coffee you want to make.
-2. Swing the basket back into place, and fill the reservoir with water. Approximately 1 cup of water for each cup of coffee you want brewed.
-3. Place the carafe back in the machine, and turn it on.
-4. The water will heat up, and flow through the coffee grounds and into the carafe. When no more coffee pours out, it's done. The heating plate under the coffee pot will keep your coffee warm, but if you leave it too long it will become bitter.
-5. Remove the carafe, pour and WAIT DON’T DRINK YET.
-6. Throw away the paper filter and grounds.
-7. Wash out the basket.
-8. Enjoy a cup of coffee.
-9. Share with friends!
-10. CLEAN THE POT BEFORE YOU GO TO CLASS.
-11. Have a nice day! 
-```
+> 1. Place a filter in the basket and add ground coffee. Approximately one heaping tablespoon of ground coffee for every cup of coffee you want to make.
+> 2. Swing the basket back into place, and fill the reservoir with water. Approximately 1 cup of water for each cup of coffee you want brewed.
+> 3. Place the carafe back in the machine, and turn it on.
+> 4. The water will heat up, and flow through the coffee grounds and into the carafe. When no more coffee pours out, it's done. The heating plate under the coffee pot will keep your coffee warm, but if you leave it too long it will become bitter.
+> 5. Remove the carafe, pour and WAIT DON’T DRINK YET.
+> 6. Throw away the paper filter and grounds.
+> 7. Wash out the basket.
+> 8. Enjoy a cup of coffee.
+> 9. Share with friends!
+> 10. CLEAN THE POT BEFORE YOU GO TO CLASS.
+> 11. Have a nice day! 
+
 A copy of the above document is also affixed to the wall near the coffee machines.
 
 ## Microwave
