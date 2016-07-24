@@ -1,2 +1,18 @@
 site_name: Collegium V Documentation
 theme: flatly
+pages:
+  - Home: 'index.md'
+  - Lounge:
+    - Welcome: 'lounge/index.md'
+    - Getting Access: 'lounge/access.md'
+    - Lounge Rules: 'lounge/policy.md'
+    - Kitchen: 'lounge/kitchen.md'
+  - CVOS:
+    - Start: 'cvos/index.md'
+    - About: 'cvos/about.md'
+    - Accounts: 'cvos/account.md'
+    - Auxiliary Services: 'cvos/aux-services.md'
+    - Bug Reports: 'cvos/bugs-and-features.md'
+    - Feature Requests: 'cvos/bugs-and-features.md'
+  - Miscellaneous:
+    - TV and Media: 'misc/media.md'
