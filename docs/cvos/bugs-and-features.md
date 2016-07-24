@@ -21,3 +21,6 @@ If there is software you'd like installed, but isn't currently installed, there 
   4. Be sure to include as much information as possible and ask an admin if you have any questions.
 
 Software that is requested for a class will usually be given priority and be installed on at least one computer within one day, however complex software packages may take longer.  All software requests are subject to time availability of the admins.
+
+# Get involved
+CVOS is a collaborative effort developed by the students of CV.  If there's something you want to change or add to the system, do it!  The admins strive to maintain a low barrier of entry for helping out and whether your skills are grounded in technology, humanities, or health and medicine, we appreciate your unique viewpoint and insight to improve the project.
