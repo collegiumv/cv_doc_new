@@ -1,4 +1,2 @@
 site_name: Collegium V Documentation
 theme: flatly
-markdown_extensions:
-  - admonition
