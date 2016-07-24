@@ -1,4 +1,4 @@
-## Lounge Media Services
+# Lounge Media Services
 The lounge TV room contains multiple devices for handling various media formats.  Currently available are:
 
   * DVD Player

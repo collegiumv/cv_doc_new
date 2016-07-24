@@ -1,4 +1,4 @@
-## Lounge Policy
+# Lounge Policy
 
 The lounge policy boils down to just 3 rules:
 

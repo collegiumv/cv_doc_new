@@ -1,4 +1,4 @@
-## Gaining Access to the Lounge
+# Gaining Access to the Lounge
 
 To gain access to the lounge, you'll need to send the 6 digit number from the back of your Comet Card to Sheila Kelly and wait a few days for the access list to be updated.  This access number is located on the back side of the card between the bottom edge and the magnetic stripe.  On most cards it will be the left most number on the bottom and will be printed in orange.  Regardless of card version it will be a 6 digit numeric ID.
 
