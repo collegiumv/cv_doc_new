@@ -4,8 +4,8 @@ Access to the Collegium V Honors Lounge is controlled via Comet Cards.  The proc
 
 Once you have access to the lounge, you should familiarize yourself with [Lounge Policy](policy.md).
 
-In the Lounge there are many resources, these are documented seperately based on catagory.  Available catagories are:
+In the Lounge there are many resources; these are documented separately based on category.  Available categories are:
 
-  * [CVOS](../cvos/)
-  * [Kitchen](kitchen.md)
-  * [TV and Media](../misc/media/)
+* [CVOS](../cvos/)
+* [Kitchen](kitchen.md)
+* [TV and Media](../misc/media/)

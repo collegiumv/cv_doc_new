@@ -16,3 +16,6 @@ pages:
     - Feature Requests: 'cvos/bugs-and-features.md'
   - Miscellaneous:
     - TV and Media: 'misc/media.md'
+
+markdown_extensions:
+  - smarty
