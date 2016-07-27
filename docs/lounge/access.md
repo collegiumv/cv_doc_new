@@ -13,8 +13,3 @@ To gain access to the computer systems in the lounge, you'll need to follow the 
 ## To the Facebook Group
 
 To gain access to the Facebook group, see [the Facebook Group page](../misc/facebook.md).
-
-
-## Additional Information
-
-If you are part of a departmental honors program that has affiliate status with Collegium V, there may be additional forms you need to file, please consult with Honors College staff in Green Center for up-to-date information.
