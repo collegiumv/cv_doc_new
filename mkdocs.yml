@@ -12,6 +12,7 @@ pages:
     - About: 'cvos/about.md'
     - Accounts: 'cvos/account.md'
     - Browsers: 'cvos/browsers.md'
+    - Print and Scan: 'cvos/print-and-scan.md'
     - Auxiliary Services: 'cvos/aux-services.md'
     - Bug Reports: 'cvos/bugs-and-features.md'
     - Feature Requests: 'cvos/bugs-and-features.md'
