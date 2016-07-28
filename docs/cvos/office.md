@@ -5,12 +5,12 @@ CVOS provides multiple document editing suites for various file formats.  In no 
 
 ## WPS Office
 
-WPS Office is visually quite similar to MS office and so users of MS Office should have no trouble using this suite.  WPS Office includes programs for text documents, spreadsheets, and slide-show style presentations.  These programs can be found in the applications menu under the catagory 'Office.'  WPS Office works well with MS Office formats.  You are still encouraged to veryify formatting on important documents and when possible render your final document to a PDF to ensure no elements shift around.  WPS Office is offered as-is.
+WPS Office is visually quite similar to MS office and so users of MS Office should have no trouble using this suite.  WPS Office includes programs for text documents, spreadsheets, and slide-show style presentations.  These programs can be found in the applications menu under the category 'Office.'  WPS Office works well with MS Office formats.  You are still encouraged to verify formatting on important documents and when possible render your final document to a PDF to ensure no elements shift around.  WPS Office is offered as-is.
 
 
-### Apppearence
+### Appearance
 
-The programs have the following appearence:
+The programs have the following appearance:
 
 ![WPS Writer](/img/cvos-office-wps_writer.png)
 
@@ -21,6 +21,7 @@ The programs have the following appearence:
 *Above: WPS Spreadsheets*
 
 ![WPS Presentation](/img/cvos-office-wps_presentation.png)
+
 *Above: WPS Presentation*
 
 
@@ -45,9 +46,11 @@ The examples shown here are done with WPS Writer, but are nearly identical to WP
 As it is an extra step to save into the MS Office format every time and this is generally the format most people use, the default can be changed as follows:
 
 Open the WPS Menu and select options:
+
 ![WPS Options Menu](/img/cvos-office-wps_menu.png)
 
 Select 'General and Save' then change the 'Save files as default:' option to your liking:
+
 ![WPS General and Save](/img/cvos-office-wps_options_save.png)
 
 
@@ -56,20 +59,22 @@ Select 'General and Save' then change the 'Save files as default:' option to you
 By default all programs in WPS Office show a screen with a selection of templates.  If you prefer to instead open a new blank document follow these steps:
 
 Open the WPS Menu and select options:
+
 ![WPS Options Menu](/img/cvos-office-wps_menu.png)
 
 Select 'General and Save' then change the 'Start With:' option to 'New Document':
+
 ![WPS General and Save](/img/cvos-office-wps_options_launch.png)
 
 
 ## LibreOffice
 
-LibreOffice is a standard Linux destkop office suite with programs for managing text, spreadsheets, slideshows, database connections and more.  LibreOffice has known formatting issues when saving into MS Office formats and is not recommended for managing documents with forms embedded such as various application forms.  LibreOffice is offered as-is.
+LibreOffice is a standard Linux desktop office suite with programs for managing text, spreadsheets, slideshows, database connections and more.  LibreOffice has known formatting issues when saving into MS Office formats and is not recommended for managing documents with forms embedded such as various application forms.  LibreOffice is offered as-is.
 
 
-### Appearence
+### Appearance
 
-LibreOffice has the following appearence:
+LibreOffice has the following appearance:
 
 ![LibreOffice Writer](/img/cvos-office-libreoffice_writer.png)
 
@@ -105,7 +110,7 @@ While this example is shown with LibreOffice Writer, a similar menu is available
 
 ### Changing Defaults
 
-The examples shown here are done with LibreOffice Writer, are very similar in other LibreOffice programs.
+The examples shown here are done with LibreOffice Writer.  Similar steps will apply to other LibreOffice programs.
 
 
 #### File Format
@@ -130,4 +135,4 @@ All UTD students are provided with access to MS Office 365 which is a cloud base
 
 ### Google Drive
 
-Google provides an online office suite which changes names periodically.  At the time of this writing it was called Google Docs and can be accessed at [https://drive.google.com](https://drive.google.com).  For obvious reasons Google Drive works best with Google Chrome.
+Google provides an online office suite called Google Drive.  Google Drive can be accessed at [https://drive.google.com](https://drive.google.com).  For obvious reasons Google Drive works best with Google Chrome.
