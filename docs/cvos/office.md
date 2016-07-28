@@ -5,7 +5,7 @@ CVOS provides multiple document editing suites for various file formats.  In no 
 
 ## WPS Office
 
-WPS Office is visually quite similar to MS office and so users of MS Office should have no trouble using this suite.  WPS Office includes programs for text documents, spreadsheets, and slide-show style presentations.  These programs can be found in the applications menu under the catagory 'Office.'
+WPS Office is visually quite similar to MS office and so users of MS Office should have no trouble using this suite.  WPS Office includes programs for text documents, spreadsheets, and slide-show style presentations.  These programs can be found in the applications menu under the catagory 'Office.'  WPS Office works well with MS Office formats.  You are still encouraged to veryify formatting on important documents and when possible render your final document to a PDF to ensure no elements shift around.  WPS Office is offered as-is.
 
 
 ### Apppearence
@@ -60,3 +60,74 @@ Open the WPS Menu and select options:
 
 Select 'General and Save' then change the 'Start With:' option to 'New Document':
 ![WPS General and Save](/img/cvos-office-wps_options_launch.png)
+
+
+## LibreOffice
+
+LibreOffice is a standard Linux destkop office suite with programs for managing text, spreadsheets, slideshows, database connections and more.  LibreOffice has known formatting issues when saving into MS Office formats and is not recommended for managing documents with forms embedded such as various application forms.  LibreOffice is offered as-is.
+
+
+### Appearence
+
+LibreOffice has the following appearence:
+
+![LibreOffice Writer](/img/cvos-office-libreoffice_writer.png)
+
+*Above: LibreOffice Writer*
+
+![LibreOffice Calc](/img/cvos-office-libreoffice_calc.png)
+
+*Above: LibreOffice Calc*
+
+![LibreOffice Impress](/img/cvos-office-libreoffice_impress.png)
+
+*Above: LibreOffice Impress*
+
+![LibreOffice Math](/img/cvos-office-libreoffice_math.png)
+
+*Above: LibreOffice Math*
+
+![LibreOffice Draw](/img/cvos-office-libreoffice_draw.png)
+
+*Above: LibreOffice Draw*
+
+
+### Saving Documents
+
+It is important to note that LibreOffice does not save into the MS Office format by default. When you save your documents, be sure to change the menu option as shown:
+
+![LibreOffice Writer File-type Menu](/img/cvos-office-libreoffice_file_type.png)
+
+*Above: How to change the file type in LibreOffice Writer*
+
+While this example is shown with LibreOffice Writer, a similar menu is available in all LibreOffice programs with appropriate file types.
+
+
+### Changing Defaults
+
+The examples shown here are done with LibreOffice Writer, are very similar in other LibreOffice programs.
+
+
+#### File Format
+
+As it is an extra step to save into the MS Office format every time and this is generally the format most people use, the default can be changed as follows:
+
+Open the LibreOffice options window using the Tools menu:
+
+![LibreOffice Tools Menu](/img/cvos-office-libreoffice_tools_menu.png)
+
+Select 'Load/Save' then select your preferred file format:
+
+![LibreOffice Options Window](/img/cvos-office-libreoffice_options_save.png)
+
+
+## Cloud Office suites
+
+### MS Office 365
+
+All UTD students are provided with access to MS Office 365 which is a cloud based document suite.  This suite is able to operate on any device with a web browser, however the CV Admins recommend using Google Chrome for the best experience.  To access Office 365 use the [MS Office Portal](https://portal.office.com/).
+
+
+### Google Drive
+
+Google provides an online office suite which changes names periodically.  At the time of this writing it was called Google Docs and can be accessed at [https://drive.google.com](https://drive.google.com).  For obvious reasons Google Drive works best with Google Chrome.
