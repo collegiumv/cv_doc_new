@@ -1,6 +1,6 @@
 # Internet Browsers
 
-CVOS provides many standard and some not so standard web browsers.  These browsers may all be found in the main menu under the category "Internet."
+CVOS provides many standard and some not-so-standard web browsers.  These browsers may all be found in the main menu under the category "Internet."
 
 ## Currently Installed Browsers
 
@@ -16,7 +16,7 @@ Google's Chrome browser.  Very fast and well integrated with the Google ecosyste
 
 ### Chromium
 
-The open source upstream to Google Chrome.  Quite fast and very similar in appearance to Chrome.  Chromium is not compatible with features such as Google session syncing and will not work with all flash content.  Chromium is offered as an alternative to Chrome.  For more information, please consult the [Chromium Project site](https://www.chromium.org/Home).
+The open-source upstream to Google Chrome.  Quite fast and very similar in appearance to Chrome.  Chromium is not compatible with features such as Google session syncing and will not work with all flash content.  Chromium is offered as an alternative to Chrome.  For more information, please consult the [Chromium Project site](https://www.chromium.org/Home).
 
 
 ## Requesting Additional Browsers
