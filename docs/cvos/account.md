@@ -27,14 +27,14 @@ Resetting your password is very similar to creating a new account and can be don
 
 ## Change your password
 
-If you already know your password but would like to change it to something different, this can be accomplished as follows:
+If you already know your password, but would like to change it to something different, this can be accomplished as follows:
 
 1. Log into any CV workstation.
 2. From the menu, launch the "Change Password" application.
 3. Enter your old password in the top box and your new password in the bottom two boxes.
-4. When you click "Change" the system will change your password.
+4. When you click "Change," the system will change your password.
 
-There are a few issues you might see when changing your password.  First if your current password isn't entered correctly you will see red text stating as such:
+There are a few issues you might see when changing your password.  First, if your current password isn't entered correctly, you will see red text stating as such:
 
 ![Wrong Password](/img/cvos-account-wrong_password.png)
 
@@ -42,7 +42,7 @@ If your old password is correct but your new passwords don't match, you will see
 
 ![Mismatched Passwords](/img/cvos-account-mismatch_password.png)
 
-After you have successfully changed your password it is recommended to log out and back in with the new password to ensure that all CV systems have authenticated you using the new password.
+After you have successfully changed your password, it is recommended to log out and back in with the new password to ensure that all CV services have authenticated you using the new password.
 
 ## Account Settings
 
