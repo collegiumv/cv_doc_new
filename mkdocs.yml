@@ -19,5 +19,6 @@ pages:
   - Miscellaneous:
     - TV and Media: 'misc/media.md'
     - Facebook Group: 'misc/facebook.md'
+    - Twitter Feed: 'misc/twitter.md'
 markdown_extensions:
   - smarty

@@ -13,3 +13,8 @@ To gain access to the computer systems in the lounge, you'll need to follow the 
 ## To the Facebook Group
 
 To gain access to the Facebook group, see [the Facebook Group page](../misc/facebook.md).
+
+
+## To the Twitter Feed
+
+To follow the lounge twitter feed, see [the Twitter Feed page](../misc/twitter.md).
