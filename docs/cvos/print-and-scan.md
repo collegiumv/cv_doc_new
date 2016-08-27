@@ -1,6 +1,10 @@
 # Printing
 
-While UTD is largely a paperless campus, there are still some classes and instructors which require paper copies of assignments.  Black and white laser printers are available in the lounge for CV students to print schoolwork.  The use of these printers is monitored.
+While UTD is largely a paperless campus, there are still some classes and instructors which require paper copies of assignments.  Black and white laser printers are available in the lounge for CV students to print schoolwork.  The use of these printers is monitored.  Please abide by the CV printing rules.
+
+* Do not print materials for clubs or student organizations.  These should instead be submitted to the SOC.
+* Do not print textbooks.
+* Do not print large jobs of over 20 pieces of paper (40 pages, when printed in duplex mode).
 
 
 ## How to Print
