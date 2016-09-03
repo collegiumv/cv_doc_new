@@ -24,6 +24,15 @@ If there is software you'd like installed, but isn't currently installed, there 
 
 Software that is requested for a class will usually be given priority and be installed on at least one computer within one day, however complex software packages may take longer.  All software requests are subject to time availability of the admins.
 
+
+# Staying up to date
+
+Periodically changes are made to CVOS to improve reliability or add new functionality.  Usually these changes are made in such a way that no action is required on the part of a user to recieve the updates.  Occasionally some changes require manual intervention to modify files in your home directory.
+
+## Default Applications
+
+Default applications are the applications that load when you click on a file for which no other association exists.  If you have made changes and wish to reset to the default application set or believe you may have filetypes bound to programs that cannot correctly open and edit them, you may use the "Fix File Associations" program in the menu.  This program produces no output, but will reset all of your program associations to the system defaults.
+
 # Get involved
 
 CVOS is a collaborative effort developed by the students of CV.  If there's something you want to change or add to the system, do it!  The admins strive to maintain a low barrier of entry for helping out, and whether your skills are grounded in technology, humanities, or health and medicine, we appreciate your unique viewpoint and insight to improve the project.
