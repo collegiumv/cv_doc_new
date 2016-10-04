@@ -2,9 +2,9 @@
 
 The lounge policy boils down to just 3 rules:
 
-* Respect other's belongings
-* Respect other's ability to work
-* Respect other's comfort in the lounge
+* Respect others' belongings
+* Respect others' abilities to work
+* Respect others' comfort in the lounge
 
 In more detail, the quiet side should remain quiet at all times, with the exception of scheduled events.  The social side should remain at a reasonable volume.
 
