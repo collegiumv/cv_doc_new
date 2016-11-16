@@ -20,5 +20,6 @@ pages:
     - TV and Media: 'misc/media.md'
     - Facebook Group: 'misc/facebook.md'
     - Twitter Feed: 'misc/twitter.md'
+    - Mailing List: 'misc/listserve.md'
 markdown_extensions:
   - smarty
