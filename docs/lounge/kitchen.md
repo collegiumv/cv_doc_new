@@ -48,7 +48,7 @@ A copy of the above document is also affixed to the wall near the coffee machine
 
 ## Microwave
 
-The microwave clock is always wrong --- many attempts have been made to set the clock but it doesn't seem to hold time reliably.  When microwaving food, always cover foods which can splatter and clean any spills as soon as possible.
+The microwave clock is always wrong --- many attempts have been made to set the clock but it doesn't seem to hold time reliably.  When microwaving food, always cover foods which can splatter and clean any spills as soon as possible.  Often the microwave is left with time on it or in the "set clock" mode.  Its generally a safe manuever to push 'cancel/clear' before trying to input the time you'd like to cook your food for.
 
 ## Electric Kettles
 
