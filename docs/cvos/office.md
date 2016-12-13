@@ -132,6 +132,7 @@ Select 'Load/Save' then select your preferred file format:
 
 All UTD students are provided with access to MS Office 365, which is a cloud based document suite.  This suite is able to operate on any device with a web browser; however, the CV Admins recommend using Google Chrome for the best experience.  To access Office 365 use the [MS Office Portal](https://portal.office.com/).
 
+For reasons that remain unclear, MS Office 365 is very sluggish on the quiet-side.  CV Admins are currently working on solutions to this issue.
 
 ### Google Drive
 
