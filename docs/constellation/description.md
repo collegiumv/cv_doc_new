@@ -13,4 +13,4 @@ For more detailed documentation, please see the individual pages for
 each module:
 
   * [OrderBoard](orderboard/)
-  * [Device Manager]()
+  * [DeviceManager](device-manager/)

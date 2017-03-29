@@ -20,6 +20,7 @@ pages:
   - Constellation:
     - What is it?: 'constellation/description.md'
     - OrderBoard: 'constellation/orderboard.md'
+    - DeviceManager: 'constellation/device-manager.md'
   - Miscellaneous:
     - TV and Media: 'misc/media.md'
     - Facebook Group: 'misc/facebook.md'
