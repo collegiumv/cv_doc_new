@@ -62,6 +62,9 @@ Select *Sharing* from System Preferences.
 
 Record the hostname into the *Device Hostname* field in Constellation.
 
+![Record
+Hostname](/img/constellation-device-manager-macos_sharing-hostname.png)
+
 ## Linux
 
 To get a device's MAC address, run `ip address` at a shell prompt.
