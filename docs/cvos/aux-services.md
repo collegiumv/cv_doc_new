@@ -34,8 +34,10 @@ network={
 
 ```
 
-At this time lounge services are not available on the general network
-connections.
+A limited set of Lounge services are available on the wired and
+wireless networks.  At this time, it is possible to access Lounge web
+resources, the general access server, and the print-server from the
+lounge network.
 
 ## IRC Idle Host
 
