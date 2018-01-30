@@ -9,6 +9,7 @@ pages:
     - Kitchen: 'lounge/kitchen.md'
   - CVOS:
     - Start: 'cvos/index.md'
+    - AUP: 'cvos/aup.md'
     - About: 'cvos/about.md'
     - Accounts: 'cvos/account.md'
     - Browsers: 'cvos/browsers.md'
