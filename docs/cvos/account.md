@@ -96,7 +96,7 @@ If your preferred environment is not listed above, feel free to [ask](bugs-and-f
 
 ### Authorized Keys
 
-If you intend to make use of our [remote access server](aux-services.md#irc-idle-host), then you'll need to install at least one authorized key.  To do so use the command `modpubkeys` in a terminal while logged in to a lounge workstation.  This will open your $EDITOR or vi, by default.  Paste in your public key and save the temporary file.  You should see that your record is updated and your key will instantly be available for use.
+If you intend to make use of our remote access server, then you'll need to install at least one authorized key.  To do so use the command `modpubkeys` in a terminal while logged in to a lounge workstation.  This will open your $EDITOR or vi, by default.  Paste in your public key and save the temporary file.  You should see that your record is updated and your key will instantly be available for use.
 
 ## Additional Info
 
