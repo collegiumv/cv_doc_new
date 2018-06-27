@@ -1,11 +1,26 @@
 # Office Suites and Document Editing
 
-CVOS provides multiple document editing suites for various file formats.  In no particular order, these are the document suites that are installed and supported.
+CVOS provides multiple document editing suites for various file formats.  These are the document suites that are installed and supported.
+
+
+## Cloud Office suites
+
+Cloud-based solutions are recommended, as you can easily access and edit the same files on different computers.  These tools can also be used for groupwork.  Google Chrome is generally the recommended browser for these office suites, though other browsers may be sufficient.
+
+**Note:** when printing from websites, you will likely want to save as PDF first.
+
+### Office 365 Online
+
+All UTD students are provided with access to Office 365, which is a cloud version of the Microsoft Office suite.  Office 365 also includes file storage with OneDrive.  To access Office 365 use the [MS Office Portal](https://portal.office.com/).
+
+### Google Drive
+
+Google provides an online office suite called Google Drive.  Google Drive can be accessed at [https://drive.google.com](https://drive.google.com).  This includes Google Docs, Sheets, and Slides.
 
 
 ## WPS Office
 
-WPS Office is visually quite similar to MS office, and so users of MS Office should have no trouble using this suite.  WPS Office includes programs for text documents, spreadsheets, and slide-show style presentations.  These programs can be found in the applications menu under the category 'Office.'  WPS Office works well with MS Office formats.  You are still encouraged to verify formatting on important documents, and, when possible, render your final document to a PDF to ensure no elements shift around.  WPS Office is offered as-is.
+WPS Office is visually quite similar to MS office.  WPS Office includes programs for text documents, spreadsheets, and slide-show style presentations.  These programs can be found in the applications menu under the category 'Office.'  WPS Office works well with MS Office formats.  You are still encouraged to verify formatting on important documents, and, when possible, render your final document to a PDF to ensure no elements shift around.  WPS Office is offered as-is.
 
 
 ### Appearance
@@ -124,16 +139,3 @@ Open the LibreOffice options window using the Tools menu:
 Select 'Load/Save' then select your preferred file format:
 
 ![LibreOffice Options Window](/img/cvos-office-libreoffice_options_save.png)
-
-
-## Cloud Office suites
-
-### MS Office 365
-
-All UTD students are provided with access to MS Office 365, which is a cloud based document suite.  This suite is able to operate on any device with a web browser; however, the CV Admins recommend using Google Chrome for the best experience.  To access Office 365 use the [MS Office Portal](https://portal.office.com/).
-
-For reasons that remain unclear, MS Office 365 is very sluggish on the quiet-side.  CV Admins are currently working on solutions to this issue.
-
-### Google Drive
-
-Google provides an online office suite called Google Drive.  Google Drive can be accessed at [https://drive.google.com](https://drive.google.com).  For obvious reasons, Google Drive works best with Google Chrome.

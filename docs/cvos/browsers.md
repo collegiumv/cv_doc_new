@@ -1,6 +1,6 @@
 # Internet Browsers
 
-CVOS provides many standard and some not-so-standard web browsers.  These browsers may all be found in the main menu under the category "Internet."
+CVOS provides several web browsers.  These browsers may all be found in the main menu under the category "Internet."
 
 ## Currently Installed Browsers
 
@@ -11,7 +11,7 @@ Mozilla's Firefox browser.  Very stable, very standard, fully supported and foll
 
 ### Google Chrome
 
-Google's Chrome browser.  Very fast and well integrated with the Google ecosystem.  Chrome is fully supported and generally follows the current release from Google.  Google Chrome supports flash and WideVine DRM.  Netflix and Mastering Physics/Chemistry are known to work in Google Chrome.  For advanced technical reasons, the Google Chrome icon has vanished, if you happen to find it, please return it to the nearest CV Administrator.  For more information please consult the [Google Chrome Manual](https://support.google.com/chrome/#topic=3227046).
+Google's Chrome browser.  Very fast and well integrated with the Google ecosystem.  Chrome is fully supported and generally follows the current release from Google.  Google Chrome supports flash and WideVine DRM.  Netflix and Mastering Physics/Chemistry are known to work in Google Chrome.  For more information please consult the [Google Chrome Manual](https://support.google.com/chrome/#topic=3227046).
 
 
 ### Chromium

@@ -10,6 +10,8 @@ The login for Constellation uses the same credentials as your CV
 account
 ([http://account.collegiumv.org](http://account.collegiumv.org)).
 
+Registering a device requires the device's MAC/Wi-Fi Address and its host name. Below are instructions on how to get these.
+
 ## Windows
 
 1. Launch PowerShell.exe.

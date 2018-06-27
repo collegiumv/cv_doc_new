@@ -4,6 +4,11 @@ The lounge network provides some additional services that do not fit
 well in other categories.  These additional services are listed on
 this page.
 
+## File storage
+
+CV accounts are provided with 10G of storage on our file-servers.  However, you should always backup data that is important in multiple places.  The CV Admins recommend copying important documents to cloud services such as Google Drive or Microsoft OneDrive.
+
+
 ## General Network Access
 
 The lounge wired network is available for use by any CV student.  The
@@ -33,6 +38,8 @@ network={
 }
 
 ```
+
+Registering your device can be done through the [DeviceManager](../constellation/device-manager.md) or by contacting an Admin. This is required in order to use the WiFi.
 
 A limited set of Lounge services are available on the wired and
 wireless networks.  At this time, it is possible to access Lounge web

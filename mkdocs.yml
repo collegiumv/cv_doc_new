@@ -4,14 +4,14 @@ pages:
   - Home: 'index.md'
   - Lounge:
     - Welcome: 'lounge/index.md'
-    - Getting Access: 'lounge/access.md'
-    - Lounge Rules: 'lounge/policy.md'
     - Kitchen: 'lounge/kitchen.md'
+    - TV and Media: 'lounge/media.md'
   - CVOS:
     - Start: 'cvos/index.md'
     - AUP: 'cvos/aup.md'
     - About: 'cvos/about.md'
-    - Accounts: 'cvos/account.md'
+    - Account Management: 'cvos/account-management.md'
+    - User Preferences: 'cvos/user-preferences.md'
     - Browsers: 'cvos/browsers.md'
     - Office: 'cvos/office.md'
     - Print and Scan: 'cvos/print-and-scan.md'
@@ -23,9 +23,6 @@ pages:
     - OrderBoard: 'constellation/orderboard.md'
     - DeviceManager: 'constellation/device-manager.md'
   - Miscellaneous:
-    - TV and Media: 'misc/media.md'
-    - Facebook Group: 'misc/facebook.md'
-    - Twitter Feed: 'misc/twitter.md'
-    - Mailing List: 'misc/listserve.md'
+    - Social Media: 'misc/social-media.md'
 markdown_extensions:
   - smarty
